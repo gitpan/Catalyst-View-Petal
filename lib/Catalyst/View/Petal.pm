@@ -5,7 +5,7 @@ use base 'Catalyst::Base';
 
 use Petal;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 =head1 NAME
 

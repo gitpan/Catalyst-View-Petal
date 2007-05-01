@@ -1,4 +1,7 @@
 Revision history for Perl extension Catalyst::View::Petal
 
+0.02  29-04-2007 01:30:00
+	- Switch to Module::Install
+
 0.01  Wed Apr 27 01:00:00 2005
         - original version.
