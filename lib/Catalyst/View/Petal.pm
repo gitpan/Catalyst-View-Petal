@@ -1,11 +1,11 @@
 package Catalyst::View::Petal;
 
 use strict;
-use base 'Catalyst::Base';
+use base 'Catalyst::View';
 
 use Petal;
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 =head1 NAME
 
